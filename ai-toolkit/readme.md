@@ -1,6 +1,6 @@
 # AI Toolkit
 
-A lightweight AI-powered toolkit with two practical tools — a Document Summarizer and an Email AI Assistant — wrapped in a clean browser interface built with Gradio.
+A lightweight AI-powered toolkit with two practical tools, a Document Summarizer and an Email AI Assistant, wrapped in a clean browser interface built with Gradio.
 
 ---
 
@@ -48,7 +48,7 @@ Get a free key at [console.groq.com](https://console.groq.com), then create a `.
 GROQ_API_KEY=your_key_here
 ```
 
-> `.env` is listed in `.gitignore` — your key will never be pushed to GitHub.
+> `.env` is listed in `.gitignore`so your key will never be pushed to GitHub.
 
 ### 4. Run the app
 
@@ -83,4 +83,4 @@ ai-toolkit/
 
 ## License
 
-MIT — free to use, modify, and build on.
+MIT: free to use, modify, and build on.
